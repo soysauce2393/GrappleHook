@@ -6,7 +6,7 @@ on:
       - master
     tags:
       - v*
-  workflow-dispatch:
+  workflow_dispatch:
   
 jobs:
   build-daemon:
